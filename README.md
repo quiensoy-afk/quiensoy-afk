@@ -10,7 +10,7 @@
 
 - 🎓 **Estudiante** en constante aprendizaje, enfocado en el mundo del desarrollo de software.
 - 🎮 Especializado en **scripts y recursos para FiveM / GTA Roleplay**, creando experiencias inmersivas para servidores.
-- 🤖 Desarrollo **bots de Discord** personalizados, como **[NEXUS-BOT]**, pensados para automatizar y mejorar comunidades.
+- 🤖 Desarrollo **bots de Discord** personalizados, como **NEXUS-BOT**, pensados para automatizar y mejorar comunidades.
 - 🌐 Creación de **páginas web**, desde landing pages hasta interfaces funcionales.
 - 📚 Siempre explorando nuevas tecnologías y buenas prácticas.
 
