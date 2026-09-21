@@ -33,7 +33,7 @@
 
 ### 📂 Proyectos destacados
 
-- 🤖 **[NEXUS-BOT](https://github.com/quiensoy-afk/NEXUS-BOT)** — Bot de Discord modular en Python, con funcionalidades de moderación, utilidades y entretenimiento para comunidades.
+- 🤖 **NEXUS-BOT** — Bot de Discord modular en Python, con funcionalidades de moderación, utilidades y entretenimiento para comunidades.
 - 🎮 *Scripts para FiveM* — Recursos y sistemas personalizados para servidores de GTA Roleplay.
 - 🌐 *Páginas web* — Proyectos de desarrollo web, adaptados a necesidades concretas.
 
